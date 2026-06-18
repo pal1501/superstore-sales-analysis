@@ -7,7 +7,7 @@ Analyze sales performance, profit trends, customer behavior, and regional perfor
 - Python
 - Pandas
 - Matplotlib
-- Jupyter Notebook
+- VS Code
 
 ## Business Questions
 
