@@ -1,21 +1,40 @@
 # Superstore Sales Analysis
 
-## Objective
-Analyze sales performance, profit trends, customer behavior, and regional performance using Python and Pandas.
+## Project Overview
 
-## Tools Used
+This project analyzes a retail Superstore dataset using Pandas.
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Exploration
+- Filtering
+- Aggregation
+- GroupBy Operations
+- Time Series Analysis - still in progress
+- Correlation Analysis - still in progress
+- Pivot Tables - still in progress
+- Data Visualization
+
+## Tools
+
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - VS Code
 
-## Business Questions
+## Dataset
 
-1. Which region generates the highest sales?
-2. Which category is most profitable?
-3. Which products are causing losses?
-4. Which customer segments contribute the most revenue?
-5. How do sales vary over time?
+Sample Superstore Dataset
+
+## Key Business Questions
+
+- Which region generates the highest sales?
+- Which category generates the highest profit?
+- Which customer segment contributes the most revenue?
+- Does discount affect profitability?
+- How do sales change over time?
 
 ## Key Insights
 
